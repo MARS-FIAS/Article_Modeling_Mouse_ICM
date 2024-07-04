@@ -8,6 +8,8 @@ import os
 import sys
 path = os.path.dirname(os.path.realpath(__file__)) + '/../Resources'
 sys.path.append(path)
+path = os.path.dirname(os.path.realpath(__file__))
+sys.path.append(path)
 import numpy as np
 import torch
 import time
@@ -54,7 +56,7 @@ score_mini = 0
 score_maxi = 1
 score_slit = 0.05
 
-cellulates = [(5, 5), (10, 10), (20, 20)] # (cell_layers, layer_cells) # [(1, 5), (2, 5), (3, 5), (5, 5), (7, 5), (5, 10), (5, 13), (5, 15), (5, 17), (10, 10), (10, 15), (15, 15), (20, 20)]
+cellulates = [(10, 10)] # (cell_layers, layer_cells) # [(1, 5), (2, 5), (3, 5), (5, 5), (7, 5), (5, 10), (5, 13), (5, 15), (5, 17), (10, 10), (10, 15), (15, 15), (20, 20)]
 rules = [0, 1]
 aim_NT = [1, 2/5]
 aim_G = [1-_ for _ in aim_NT]
@@ -83,7 +85,7 @@ for cellulate in cellulates:
 
 #%%# Visualize Data Memo [Convolution]
 
-cellulate = cellulates[2]
+cellulate = cellulates[0]
 clues = ['NT', 'G', 'U']
 clue_labels = ['EPI', 'PRE', 'UND']
 positional_information = False

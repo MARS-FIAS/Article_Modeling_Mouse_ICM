@@ -8,6 +8,8 @@ import os
 import sys
 path = os.path.dirname(os.path.realpath(__file__)) + '/../Resources'
 sys.path.append(path)
+path = os.path.dirname(os.path.realpath(__file__))
+sys.path.append(path)
 import numpy as np
 import torch
 from copy import deepcopy # import time
