@@ -34,7 +34,7 @@ The data sets must be uncompressed, extracted, and placed under the correspondin
 
  - Script
 
-   - PATH/Script_Bank/Fig3.py
+   - PATH/Script_Bank/Analysis/Fig3.py
 
  - Data Set [Placement]
 
@@ -46,9 +46,9 @@ The data sets must be uncompressed, extracted, and placed under the correspondin
 
  - Scripts
 
-   - PATH/Script_Bank/Fig4.py
+   - PATH/Script_Bank/Analysis/Fig4.py
 
-   - PATH/Script_Bank/Fig4_Auxiliary.py
+   - PATH/Script_Bank/Analysis/Fig4_Auxiliary.py
 
  - Data Set [Placement]
 
@@ -60,7 +60,7 @@ The data sets must be uncompressed, extracted, and placed under the correspondin
 
  - Script
 
-   - ./Article_Modeling_Mouse_ICM/Script_Bank/Fig5.py
+   - PATH/Script_Bank/Analysis/Fig5.py
 
  - Data Sets [Placement]
 
@@ -76,7 +76,7 @@ The data sets must be uncompressed, extracted, and placed under the correspondin
 
  - Script
 
-   - PATH/Script_Bank/Fig6.py
+   - PATH/Script_Bank/Analysis/Fig6.py
 
  - Data Set [Placement]
 
@@ -88,9 +88,9 @@ The data sets must be uncompressed, extracted, and placed under the correspondin
 
  - Scripts
 
-   - PATH/Script_Bank/Fig7_Alp.py
+   - PATH/Script_Bank/Analysis/Fig7_Alp.py
 
-   - PATH/Script_Bank/Fig7_Bet.py
+   - PATH/Script_Bank/Analysis/Fig7_Bet.py
 
  - Data Sets [Placement]
 
@@ -104,7 +104,7 @@ The data sets must be uncompressed, extracted, and placed under the correspondin
 
  - Script
 
-   - PATH/Script_Bank/Fig8.py
+   - PATH/Script_Bank/Analysis/Fig8.py
 
  - Data Set [Placement]
 
@@ -116,9 +116,9 @@ The data sets must be uncompressed, extracted, and placed under the correspondin
 
  - Scripts
 
-   - PATH/Script_Bank/Fig14_Fig15.py
+   - PATH/Script_Bank/Analysis/Fig14_Fig15.py
 
-   - PATH/Script_Bank/Fig14_Fig15_Auxiliary.py
+   - PATH/Script_Bank/Analysis/Fig14_Fig15_Auxiliary.py
 
  - Data Sets [Placement]
 
