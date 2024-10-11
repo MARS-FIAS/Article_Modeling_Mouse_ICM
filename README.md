@@ -10,7 +10,7 @@ __Partial Data Bank Link__ [_Zenodo_]
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12637055.svg)](https://doi.org/10.5281/zenodo.12637055)
 
-__Complete Data Bank Links__
+__Complete Data Bank Links__ [_Zenodo_]
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13891602.svg)](https://doi.org/10.5281/zenodo.13891602)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13896947.svg)](https://doi.org/10.5281/zenodo.13896947)
@@ -24,13 +24,35 @@ All the code files are under the folder *Script_Bank*. The subfolder *Analysis* 
 The data sets must be uncompressed, extracted, and placed under the corresponding subfolders of *Data_Bank*. Please use the data set placement guidelines as described over the following sections.
 
 > [!WARNING]
-> The simulation-inference data bank is not available from this GitHub repository. Use the links provided at the beginning of this *README* file. As of now, the complete data bank is only available by request. Please note, the complete (uncompressed) data bank is around 500 GBs.
+> The simulation-inference data bank is not available from this GitHub repository. Use the links provided at the beginning of this *README* file. As of now, the complete data bank is available at Zenodo: [https://zenodo.org/](https://zenodo.org/). Please note, the complete (uncompressed) data bank is around 500 GBs.
 
 ----
 
 ## AVAILABLE FIGURE DATA SETS
 
 > PATH = ./Article_Modeling_Mouse_ICM
+
+### Figure 2
+
+ - This figure was partially made using LibreOffice Draw and Inkscape!
+
+ - Scripts
+
+   - PATH/Script_Bank/Analysis/Fig2[E].py
+
+   - PATH/Script_Bank/Analysis/Fig2[F].py
+
+   - PATH/Script_Bank/Analysis/Fig2_Services.py
+
+ - Data Sets [Placement]
+
+   - Fig2_ITWT.zip
+
+       PATH/Data_Bank/Shallow_Grid_1_N_Link/Observe_1/
+
+   - Fig2_RTM.zip
+
+       PATH/Data_Bank/Shallow_Grid_1_Rule_Kern/Observe_1/
 
 ### Figure 3
 
@@ -114,6 +136,50 @@ The data sets must be uncompressed, extracted, and placed under the correspondin
 
        PATH/Data_Bank/Shallow_Grid_1_N_Link/Observe_1/
 
+### Figure 9
+
+ - Scripts
+
+   - PATH/Script_Bank/Analysis/Fig9_Alp.py
+
+   - PATH/Script_Bank/Analysis/Fig9_Bet.py
+
+ - Data Sets [Placement]
+
+   - {Fig9_Alp_Card_1.zip, Fig9_Alp_Card_5.zip, Fig9_Alp_Card_10.zip, Fig9_Alp_Card_25.zip, Fig9_Alp_Card_50.zip, Fig9_Alp_Card_75.zip, Fig9_Alp_Card_100.zip}
+
+   - {Fig9_Bet_Card_1.zip, Fig9_Bet_Card_5.zip, Fig9_Bet_Card_10.zip, Fig9_Bet_Card_25.zip, Fig9_Bet_Card_50.zip, Fig9_Bet_Card_75.zip, Fig9_Bet_Card_100.zip}
+
+       PATH/Data_Bank/Shallow_Grid_1_N_Link/Observe_1/
+
+### Figure 10
+
+ - Script
+
+   - PATH/Script_Bank/Analysis/Fig10.py
+
+ - Data Sets [Placement]
+
+   - {Fig10_Alp_Wait_0.zip, Fig10_Alp_Wait_4.zip, Fig10_Alp_Wait_8.zip, Fig10_Alp_Wait_12.zip, Fig10_Alp_Wait_16.zip, Fig10_Alp_Wait_24.zip, Fig10_Alp_Wait_32.zip, Fig10_Alp_Wait_40.zip}
+
+   - {Fig10_Bet_Wait_0.zip, Fig10_Bet_Wait_4.zip, Fig10_Bet_Wait_8.zip, Fig10_Bet_Wait_12.zip, Fig10_Bet_Wait_16.zip, Fig10_Bet_Wait_24.zip, Fig10_Bet_Wait_32.zip, Fig10_Bet_Wait_40.zip}
+
+       PATH/Data_Bank/Shallow_Grid_1_N_Link/Observe_1/
+
+### Figure 11
+
+ - Script
+
+   - PATH/Script_Bank/Analysis/Fig11.py
+
+ - Data Sets [Placement]
+
+   - {Fig11_Alp_Wait_0.zip, Fig11_Alp_Wait_4.zip, Fig11_Alp_Wait_8.zip, Fig11_Alp_Wait_12.zip, Fig11_Alp_Wait_16.zip, Fig11_Alp_Wait_24.zip, Fig11_Alp_Wait_32.zip, Fig11_Alp_Wait_40.zip}
+
+   - {Fig11_Bet_Wait_0.zip, Fig11_Bet_Wait_4.zip, Fig11_Bet_Wait_8.zip, Fig11_Bet_Wait_12.zip, Fig11_Bet_Wait_16.zip, Fig11_Bet_Wait_24.zip, Fig11_Bet_Wait_32.zip, Fig11_Bet_Wait_40.zip}
+
+       PATH/Data_Bank/Shallow_Grid_1_N_Link/Observe_1/
+
 ### Figure 14 AND Figure 15
 
  - Scripts
@@ -141,16 +207,6 @@ The data sets must be uncompressed, extracted, and placed under the correspondin
 ### Figure 1
 
  - This figure was partially made using LibreOffice Draw and Inkscape!
-
-### Figure 2
-
- - This figure was partially made using LibreOffice Draw and Inkscape!
-
-### Figure 9
-
-### Figure 10
-
-### Figure 11
 
 ### Figure 12
 
