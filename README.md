@@ -10,9 +10,11 @@ __Partial Data Bank Link__ [_Zenodo_]
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12637055.svg)](https://doi.org/10.5281/zenodo.12637055)
 
-__Complete Data Bank Link__
+__Complete Data Bank Links__
 
-NONE []()
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13891602.svg)](https://doi.org/10.5281/zenodo.13891602)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13896947.svg)](https://doi.org/10.5281/zenodo.13896947)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13896989.svg)](https://doi.org/10.5281/zenodo.13896989)
 
 > [!NOTE]
 > Download the whole repository, and make sure to preserve the directory structure. The corresponding Python scripts automatically find the supporting files based on their relative repository location. The *requirements.txt* file lists the minimum prerequisites for executing these scripts. The *repository_tree.html* file provides a quick view of the directory structure.
